@@ -4,7 +4,7 @@ Data and model files for the article "Power sector resilience co-benefits of dec
 
 ## Contents                                                                                               
 LEAP_area/       LEAP model area (OEPP and OMAP pathways, stress-test scenarios) <br>                  
-input_data/      Hydro capacity factors (Ember), drought profiles, gas/LNG assumptions   <br>                  
+input_data/      LEAP model input data, technology assumptions and fuel costs   <br>                  
 results/         Generation, capacity, costs, unmet demand by scenario (xlsx)                          
 
 ## Software
